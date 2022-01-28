@@ -1,6 +1,8 @@
 Created a basic web user interface for a helpdesk application using React and REST APIs
 
-Some examples here:
+Some Visuals:
+![h](public/second.PNG)
+![h](public/third.PNG)
 
 
 
